@@ -24,7 +24,7 @@
     <repositories>
         <repository>
             <id>primefaces</id>
-            <url>http://repository.primefaces.org</url>
+            <url>https://nexus-lifecycle.rz.bmi.intra.gv.at/nexus/repository/PrimeFaces/</url>
         </repository>
     </repositories>
 
